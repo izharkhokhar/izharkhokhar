@@ -18,7 +18,7 @@ I enjoy turning repetitive business processes into automated workflows using n8n
 
 ## Current Projects
 
-### AI Lead-to-Appointment Automation
+### [AI Lead-to-Appointment Automation](https://github.com/izharkhokhar/ai-lead-to-appointment-automation)
 An end-to-end n8n automation that:
 
 - Captures incoming business leads
