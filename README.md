@@ -31,10 +31,20 @@ An end-to-end n8n automation that:
 
 **Tech:** n8n, OpenAI, Google Sheets, Gmail, Calendly, Webhooks
 
-### AI Customer Support Email Agent
-An AI-powered email automation that classifies customer enquiries, automatically replies to suitable requests and routes cases that need human review.
+### 📧 AI Customer Support Email Agent
 
-**Tech:** n8n, OpenAI, Gmail
+AI-powered email support automation built with n8n, OpenAI and Gmail.
+
+**Features:**
+- Automatically monitors incoming Gmail support emails
+- AI classification into Auto Reply, Human Review and Not Support
+- Generates safe and professional customer responses
+- Automatically replies to routine support requests
+- Routes sensitive or complex cases for human review
+- Prevents duplicate processing using Gmail labels
+- Handles automated emails, newsletters and out-of-office messages safely
+
+🔗 [View Project](https://github.com/izharkhokhar/ai-customer-support-email-agent)
 
 ### 🤖 AI Customer Support Chatbot
 
