@@ -36,6 +36,22 @@ An AI-powered email automation that classifies customer enquiries, automatically
 
 **Tech:** n8n, OpenAI, Gmail
 
+### 🤖 AI Customer Support Chatbot
+
+Advanced AI customer support system built with n8n and OpenAI.
+
+**Features:**
+- RAG knowledge base for grounded company answers
+- Conversation memory
+- Human escalation workflow
+- Automatic support Ticket IDs
+- Google Sheets conversation and escalation logging
+- Gmail alerts for human support
+- Customer topic classification
+- Support analytics and escalation tracking
+
+🔗 [View Project](https://github.com/izharkhokhar/ai-customer-support-chatbot)
+
 ## Tools & Technologies
 
 - n8n
