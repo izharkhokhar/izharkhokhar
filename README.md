@@ -93,7 +93,7 @@ Advanced AI customer support chatbot with RAG, human escalation, ticketing, conv
 - Escalation tracking and support analytics
 - Customer-facing ticket confirmation
 
-**Tech:** n8n, OpenAI, RAG, Vector Store, Google Sheets, Gmail, AI Agents, Workflow Automation
+**Tech:** n8n, OpenAI, RAG, Vector Store, Prompt Engineering, Google Sheets, Gmail, AI Agents, Workflow Automation
 
 ### ⚡ [AI Customer Feedback Analyzer & Priority Alert Automation](https://github.com/izharkhokhar/ai-customer-feedback-analyzer-zapier)
 
@@ -114,15 +114,16 @@ AI-powered customer feedback automation built with Zapier and ChatGPT to analyse
 
 ## Tools & Technologies
 
-- n8n
-- OpenAI / LLMs
-- APIs & Webhooks
-- Google Sheets
-- Gmail Automation
-- Calendly
-- Excel
-- Power BI
-- SQL
+ai-automation
+n8n
+zapier
+openai
+claude-ai
+prompt-engineering
+ai-agents
+rag
+workflow-automation
+api-integration
 
 ## What I'm Building Towards
 
