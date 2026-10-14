@@ -87,6 +87,23 @@ Advanced AI customer support chatbot with RAG, human escalation, ticketing, conv
 
 **Tech:** n8n, OpenAI, RAG, Vector Store, Google Sheets, Gmail, AI Agents, Workflow Automation
 
+### ⚡ [AI Customer Feedback Analyzer & Priority Alert Automation](https://github.com/izharkhokhar/ai-customer-feedback-analyzer-zapier)
+
+AI-powered customer feedback automation built with Zapier and ChatGPT to analyse sentiment, category and priority, log structured results, and alert the business about urgent feedback.
+
+**Features:**
+- Google Form customer feedback capture
+- AI sentiment analysis
+- Automatic feedback categorisation
+- Priority classification into Low, Medium and High
+- AI-generated feedback summaries
+- Google Sheets analysis logging
+- High-priority filtering
+- Automated Gmail alerts
+- Low-priority feedback suppression to avoid unnecessary notifications
+
+**Tech:** Zapier, ChatGPT, OpenAI, Google Forms, Google Sheets, Gmail, AI Classification, Workflow Automation
+
 ## Tools & Technologies
 
 - n8n
