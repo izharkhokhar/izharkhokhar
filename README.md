@@ -50,6 +50,24 @@ AI-powered customer support email automation that automatically classifies incom
 
 **Tech:** n8n, OpenAI, Gmail, AI Classification, Workflow Automation
 
+### 🧾 [AI Invoice Processing & Finance Operations Agent](https://github.com/izharkhokhar/ai-invoice-processing-finance-agent)
+
+AI-powered invoice processing and finance automation that extracts invoice data, detects duplicates, manages human review, tracks due dates and sends finance alerts.
+
+**Features:**
+- AI invoice data extraction from PDFs
+- Duplicate invoice detection
+- Automatic expense categorisation
+- Google Sheets finance logging
+- Google Drive invoice archiving
+- Human review for incomplete invoices
+- Due Soon and Overdue reminders
+- Duplicate reminder prevention
+- Finance analytics dashboard
+- Human-in-the-loop payment approval
+
+**Tech:** n8n, OpenAI, Gmail, Google Sheets, Google Drive, AI Information Extraction, Workflow Automation
+
 
 ### 🤖 [AI Customer Support Chatbot](https://github.com/izharkhokhar/ai-customer-support-chatbot)
 
