@@ -1,20 +1,28 @@
-# Hi, I'm Izhar 👋
+# Hi, I'm Izhar Ul Haq 👋
 
-I'm an MSc Artificial Intelligence graduate based in the UK, currently focused on building practical AI automation systems, AI agents and chatbots.
+## AI Automation & Agent Developer
 
-I enjoy turning repetitive business processes into automated workflows using n8n, LLMs, APIs, webhooks and business tools.
+MSc Artificial Intelligence graduate focused on building practical AI-powered automations, AI agents, chatbots and business workflow solutions.
 
-## What I'm Focused On
+I work with **n8n, Zapier, OpenAI, Claude, Prompt Engineering, RAG, APIs and workflow automation** to build systems that automate real business processes.
 
-- AI Automation
-- AI Agents
-- n8n Workflows
-- Business Process Automation
-- Chatbots
-- Lead Generation & Qualification
-- Customer Support Automation
-- API Integrations
-- LLM-powered Workflows
+My projects include AI customer support agents, RAG chatbots, lead qualification systems, invoice processing automation, appointment workflows and AI-powered customer feedback analysis.
+
+## 🧠 AI & Automation Skills
+
+**Automation Platforms:** n8n, Zapier
+
+**AI & LLMs:** OpenAI, ChatGPT, Claude, LLM Workflows, AI Agents
+
+**Prompt Engineering:** System Prompt Design, Structured Output Prompts, Classification Prompts, Grounding & Hallucination Controls
+
+**AI Techniques:** RAG, Vector Stores, AI Classification, Information Extraction, Human-in-the-Loop Workflows
+
+**Integrations:** REST APIs, Webhooks, JSON, OAuth, Gmail, Google Sheets, Google Drive, Calendly
+
+**Data & Analytics:** SQL, Microsoft Excel, Power BI
+
+**Infrastructure:** Docker, VPS Hosting
 
 ## 🚀 Featured Projects
 
